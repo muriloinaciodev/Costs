@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "id": "e4e7",
+      "name": "ChatGPT2",
+      "budget": "2132132131",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "08a9",
+      "category": {
+        "id": 2,
+        "name": "Desenvolvimento"
+      },
+      "name": "Funcionou",
+      "budget": "1000",
+      "cost": 900,
+      "services": [
+        {
+          "name": "Contratar Dev FrontEnd",
+          "cost": "300",
+          "description": "Vai fazer o codigo do nosso site utilizando react js",
+          "id": "779c642f-b2e5-4ff1-a1fc-116aba571ee5"
+        },
+        {
+          "name": "Contratar Dev Backend",
+          "description": "Devera desenvolver a logica por tras do backend aplicando as regras de negocio da empresa para poder ser consumida via api rest pelo fontend",
+          "cost": "300",
+          "id": "6248002d-2656-48aa-8601-3b1f1fe9f641"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
